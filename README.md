@@ -1,2 +1,8 @@
 # Game-Tracker
-Tracking games and inputting scores
+I'm building an application designed to help users easily track games, input scores, and view real-time standings. Whether it's for a local sports league, a school tournament, or a friendly competition among friends, the app provides a streamlined way to manage games and keep everyone updated. Users can create profiles for teams or individual players, schedule matches, and record results as they happen.
+
+One of the core features of the application is the score input system. After each game, users can quickly log the final scores, and the system will automatically update statistics and rankings. This eliminates the need for spreadsheets or paper tracking, reducing errors and saving time. The application also supports editing or deleting incorrect entries, giving users full control over their data.
+
+The standings feature dynamically calculates rankings based on wins, losses, points, or custom rules set by the organizer. Visual charts and tables make it easy to compare team performance over time. Whether you're running a single-elimination bracket, a round-robin format, or a full season league, the app adapts to fit your needs and keeps the competition organized.
+
+Beyond functionality, the app focuses on user experience with a clean, intuitive interface. It's designed to be accessible for both casual users and serious organizers. Future updates will include notifications, player stats, and the ability to share standings publicly. Overall, the application offers a complete solution for managing competitive games and enhancing the experience for everyone involved.
