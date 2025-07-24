@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexsawyer/Documents/Game_Tracking/Game_Tracking.csproj": {}
+    "/Users/alexsawyer/Documents/Repositories/Game_Tracking/Game_Tracking.csproj": {}
   },
   "projects": {
-    "/Users/alexsawyer/Documents/Game_Tracking/Game_Tracking.csproj": {
+    "/Users/alexsawyer/Documents/Repositories/Game_Tracking/Game_Tracking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexsawyer/Documents/Game_Tracking/Game_Tracking.csproj",
+        "projectUniqueName": "/Users/alexsawyer/Documents/Repositories/Game_Tracking/Game_Tracking.csproj",
         "projectName": "Game_Tracking",
-        "projectPath": "/Users/alexsawyer/Documents/Game_Tracking/Game_Tracking.csproj",
+        "projectPath": "/Users/alexsawyer/Documents/Repositories/Game_Tracking/Game_Tracking.csproj",
         "packagesPath": "/Users/alexsawyer/.nuget/packages/",
-        "outputPath": "/Users/alexsawyer/Documents/Game_Tracking/obj/",
+        "outputPath": "/Users/alexsawyer/Documents/Repositories/Game_Tracking/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [

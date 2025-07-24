@@ -61,11 +61,13 @@ public class Employee_Ui
         
     } //test validation loop for later
 
-    public Employee_Info EmployeeWelcomeScreen(Employee_Info employee_Info, User_Info user_Info)
+    public void EmployeeWelcomeScreen(Employee_Info employee_Info)
     {
-        Console.WriteLine($"Welcome {user_Info.GetUsername()}!");
+        Console.WriteLine($"Welcome {employee_Info.GetUsername()}!");
         Console.WriteLine($"Your current job title is: {employee_Info.GetEmployeeJobTitle()}");
         
-        return employee_Info;
     }
+    
+    
+    
 }

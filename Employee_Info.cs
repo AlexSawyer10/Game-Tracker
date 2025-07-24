@@ -32,6 +32,18 @@ public class Employee_Info : User_Info
     {
         return hoursWorkedThisYear;
     }
+
+    public void WriteUsernameAndPassword()
+    {
+        string filePath = "Username_Password.txt";
+        
+        using (StreamWriter writer = new StreamWriter(filePath, true))
+        {
+            writer.WriteLine($"Username: {GetUsername()}");
+            writer.WriteLine($"Password: {GetPassword()}");
+           
+        }
+    }
     
     
 }
