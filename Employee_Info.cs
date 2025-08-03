@@ -41,7 +41,6 @@ public class Employee_Info : User_Info
         {
             writer.WriteLine($"Username: {GetUsername()}");
             writer.WriteLine($"Password: {GetPassword()}");
-           
         }
     }
     

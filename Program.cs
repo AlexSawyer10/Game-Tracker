@@ -8,6 +8,11 @@ class Program
         Employee_Ui employee_Ui = new Employee_Ui();                 //of the static method (fix this wording)
         User_Info user_Info = new User_Info();
         Employee_Info employee_Info = new Employee_Info();
+        Team_Info team_One = new Team_Info();
+        Team_Info team_Two = new Team_Info();
+        Team_Info team_Three = new Team_Info();
+        Team_Info team_Four = new Team_Info();
+        Team_Info team_Five = new Team_Info();
         
         general_Messages.WelcomeMessage();
         general_Messages.DescribeProgramMessage();

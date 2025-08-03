@@ -1,0 +1,15 @@
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/bin/Debug/net8.0/Game_Tracking
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/bin/Debug/net8.0/Game_Tracking.deps.json
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/bin/Debug/net8.0/Game_Tracking.runtimeconfig.json
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/bin/Debug/net8.0/Game_Tracking.dll
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/bin/Debug/net8.0/Game_Tracking.pdb
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/obj/Debug/net8.0/Game_Tracking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/obj/Debug/net8.0/Game_Tracking.AssemblyInfoInputs.cache
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/obj/Debug/net8.0/Game_Tracking.AssemblyInfo.cs
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/obj/Debug/net8.0/Game_Tracking.csproj.CoreCompileInputs.cache
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/obj/Debug/net8.0/Game_Tracking.sourcelink.json
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/obj/Debug/net8.0/Game_Tracking.dll
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/obj/Debug/net8.0/refint/Game_Tracking.dll
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/obj/Debug/net8.0/Game_Tracking.pdb
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/obj/Debug/net8.0/Game_Tracking.genruntimeconfig.cache
+/Users/alexsawyer/Documents/Repositories/Game_Tracking/obj/Debug/net8.0/ref/Game_Tracking.dll
