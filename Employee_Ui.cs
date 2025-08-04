@@ -13,7 +13,7 @@ public class Employee_Ui
         string user_username = Console.ReadLine()!;
         
         
-        user_Info.SetUsername(user_username);
+        user_Info.username = user_username;
         
         bool passwordValidationLoop = true;
 
@@ -54,8 +54,8 @@ public class Employee_Ui
                     passwordValidationLoop = true;
                 }
             }
-            
-            user_Info.SetPassword(user_password);
+
+            user_Info.password = user_password;
 
         }
         
@@ -65,7 +65,7 @@ public class Employee_Ui
 
     public void EmployeeWelcomeScreen(Employee_Info employee_Info)
     {
-        Console.WriteLine($"Welcome {employee_Info.GetUsername()}!");
+        Console.WriteLine($"Welcome {employee_Info.username}!");
         Console.WriteLine($"Your current job title is: {employee_Info.GetEmployeeJobTitle()}");
         
     }
